@@ -1,4 +1,4 @@
-Höchsttemperatur pro Jahr:
+HÃ¶chsttemperatur pro Jahr:
                      Wert
 Zeitstempel              
 2015-07-04 14:00:00  36.0
